@@ -22,7 +22,7 @@ DaisyUI is used for styling to enhance the visual appeal of the webpage.
 
 ## Usage
 
-1. Open your web browser and go to [https://berian.lowe.com/self-destruct](https://berian.lowe.com/self-destruct).
+1. Open your web browser and go to [https://berianlowe.com/self-destruct](https://berianlowe.com/self-destruct).
 2. Click the "Self Destruct!" button on the webpage.
 3. A SweetAlert2 dialog will open, displaying a countdown message from "3..." to "1..." seconds.
 4. After the countdown, the content of the `<h1>` element will be changed to indicate a simulated self-destruct.
